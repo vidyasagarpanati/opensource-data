@@ -47,4 +47,9 @@ Note: If you are interested in committing entries to this opensource-data, pleas
 - [Cifar](http://www.cs.toronto.edu/~kriz/cifar.html)
 - [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist)
 
-#### How to create a glossary of datasets - [Here it is](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
+
+### Coming up
+1. Better representation of README
+   Ref: How to create a glossary of datasets - [Here it is](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
+2. Ranking and detailing the data sets
+3. Adding a link to the Specific .ipynb for the trained models on the Datasets.
